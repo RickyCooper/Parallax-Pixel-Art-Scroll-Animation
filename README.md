@@ -19,7 +19,7 @@ Run the development server:
 ```
 npm run dev
 ```
-Open http://localhost:3000 in your browser to view the project.
+Open localhost in your browser to view the project.
 
 ## 📸 Demo
 
